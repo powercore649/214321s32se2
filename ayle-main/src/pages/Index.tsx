@@ -80,7 +80,7 @@ const Index = () => {
           </div>
 
           <h1 className="font-feminine text-7xl tracking-[0.14em] md:text-9xl">
-            <span className="text-shimmer">AYLE</span>
+            <span className="text-shimmer">dotdash_nova</span>
           </h1>
 
           <div className="mt-6 terminal-chip">
@@ -122,7 +122,7 @@ const Index = () => {
           <div className="relative overflow-hidden rounded-2xl border border-accent/30 bg-card/60 p-8 shadow-[0_0_60px_-20px_hsl(var(--accent)/0.6)] backdrop-blur md:p-10">
             <div className="absolute inset-x-0 -top-px h-px bg-gradient-to-r from-transparent via-accent/60 to-transparent" />
             <h2 className="font-display text-3xl font-semibold md:text-4xl">
-              Hey, I'm <span className="text-foreground">Alya</span>.
+              Hey, I'm <span className="text-foreground">dotdash_nova</span>.
             </h2>
             <p className="mt-6 text-muted-foreground">
               I'm a graphic designer, web developer, and Discord bot builder.
@@ -256,17 +256,17 @@ const Index = () => {
           <p className="mt-6 max-w-xl text-muted-foreground md:text-lg">
             I take on a small number of product and infrastructure engagements
             each quarter. If you have a problem that deserves attention, send a
-            note — I reply to everything.
+            note zyntra.dpdns.org@zohomail.eu — I reply to everything.
           </p>
           <div className="mt-10 flex flex-wrap gap-3">
             <Button asChild size="lg" className="rounded-full bg-foreground text-background hover:bg-foreground/90">
               <a href="mailto:arcticayl@gmail.com">
-                arcticayl@gmail.com <ArrowUpRight className="ml-1 h-4 w-4" />
+                <ArrowUpRight className="ml-1 h-4 w-4" />
               </a>
             </Button>
             <Button asChild size="lg" variant="outline" className="btn-grad-border rounded-full bg-secondary/50">
               <a href="https://github.com/ayliee" target="_blank" rel="noreferrer noopener" aria-label="GitHub">
-                <Github className="mr-2 h-4 w-4" /> github.com/ayliee
+                <Github className="mr-2 h-4 w-4" /> github.com/powercore649
               </a>
             </Button>
           </div>
@@ -275,7 +275,7 @@ const Index = () => {
 
       <footer className="border-t border-border/60 py-10">
         <div className="mx-auto flex max-w-6xl flex-col items-center justify-between gap-3 px-6 font-mono text-xs text-muted-foreground md:flex-row">
-          <span>© {new Date().getFullYear()} AYLE · crafted in the dark</span>
+          <span>© {new Date().getFullYear()} dotdash_nova · crafted in the dark</span>
           <span className="flex items-center gap-2">
             <span className="h-1.5 w-1.5 animate-pulse-glow rounded-full bg-accent" />
             system nominal
