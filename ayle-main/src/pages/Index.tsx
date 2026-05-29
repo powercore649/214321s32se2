@@ -15,7 +15,7 @@ import {
   MousePointer2,
 } from "lucide-react";
 
-const DISCORD_ID = "544047377540186114";
+const DISCORD_ID = "1149165064335675423";
 
 const projects = [
   {
@@ -39,7 +39,7 @@ const projects = [
     featured: true,
   },
   {
-    name: "ayliee.dev",
+    name: "dotdash_nova.dev",
     status: "live" as const,
     blurb:
       "My personal corner of the web — a home for notes, work, and experiments with glassy surfaces and subtle motion.",
